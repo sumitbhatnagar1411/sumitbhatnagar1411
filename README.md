@@ -167,18 +167,6 @@ sumit = {
 
 ---
 
-## 🐍 Contribution Graph
-
-<div align="center">
-
-> **To enable the animated snake, add this GitHub Action to your profile repo:**
-> Create `.github/workflows/snake.yml` with the content in the setup instructions below.
-
-<!-- Once the Action runs, replace the line below with your actual snake SVG path -->
-<!-- ![snake gif](https://github.com/sumitbhatnagar1411/sumitbhatnagar1411/blob/output/github-contribution-grid-snake-dark.svg) -->
-
-</div>
-
 ---
 
 ## 🤝 Let's Connect
